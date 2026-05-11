@@ -2,22 +2,12 @@
 <p align="center">
   <img src="AlmondEyeMy.webp" width="700">
 </p>
----
-## Hi I'M Raditya~
-Almond Eye My GF ❤
----
+<p align="center">
+  <img src="preview.png" width="250">
+</p>
 
-## Technologies Used
+<h1 align="center">Hi, I'm Raditya~</h1>
 
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/radityasandi62728-bit/activity-log.git
+<p align="center">
+  Almond Eye My GF ❤
+</p>

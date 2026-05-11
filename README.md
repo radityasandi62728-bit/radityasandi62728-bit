@@ -2,17 +2,9 @@
 <p align="center">
   <img src="AlmondEyeMy.webp" width="700">
 </p>
-
 ---
-
-## Features
-
-- Daily activity tracking
-- Total streak counter
-- Total study hours
-- Task progress tracker
-- Simple and responsive UI
-
+## Hi I'M Raditya~
+Almond Eye My GF ❤
 ---
 
 ## Technologies Used

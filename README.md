@@ -1,10 +1,3 @@
-# Activity Log
-
-A simple activity tracker website to record daily progress, streaks, study sessions, and completed tasks.
-
----
-
-## Preview
 
 <p align="center">
   <img src="AlmondEyeMy.webp" width="700">

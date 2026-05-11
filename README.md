@@ -1,38 +1,11 @@
-# Activity Log
-
-A simple activity tracker website to record daily progress, streaks, study sessions, and completed tasks.
-
----
-
-## Preview
 
 <p align="center">
   <img src="AlmondEyeMy.webp" width="700">
 </p>
-
----
-
-## Features
-
-- Daily activity tracking
-- Total streak counter
-- Total study hours
-- Task progress tracker
-- Simple and responsive UI
-
----
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/radityasandi62728-bit/activity-log.git
+<p align="center">
+  <img src="preview.png" width="250">
+</p>
+<h1 align="center">Hi, I'm Raditya~</h1>
+<p align="center">
+  Almond Eye My GF ❤
+</p>
